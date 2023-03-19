@@ -26,5 +26,10 @@ Azure function automatically execute due to blog trigger and it resize file into
 
 you cna test function, using Postman or visual studio or Azure portal etc.
 
+Please check blog inmedium to get more information. It has YouTube recording as well.
+
+https://medium.com/@meetalpa/azure-functions-101-1c9003522a50
+
+
 
 
